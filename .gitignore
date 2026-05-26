@@ -6,5 +6,8 @@
 build/
 pubspec.lock
 
-# Test related
-coverage/
+# Android
+android/.gradle/
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+android/.idea/
+android/local.properties
